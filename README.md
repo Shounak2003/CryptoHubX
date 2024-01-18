@@ -1,5 +1,5 @@
 # CryptoHubX
-![image](https://github.com/Shounak2003/CryptoHubX/assets/93007487/288fe283-0bd0-4d39-80bd-b014b3ba2f1d)
+
 
 
 # crptohubx - Modern Web 3.0 Blockchain App
@@ -49,6 +49,8 @@ To get started with crptohubx, follow these steps:
     ```
 
 4. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to explore crptohubx.
+5. 
+![image](https://github.com/Shounak2003/CryptoHubX/assets/93007487/288fe283-0bd0-4d39-80bd-b014b3ba2f1d)
 
 ## Contributing
 
