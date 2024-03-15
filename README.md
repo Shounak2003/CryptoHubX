@@ -50,7 +50,9 @@ To get started with crptohubx, follow these steps:
 
 4. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to explore crptohubx.
 
-![image](https://github.com/Shounak2003/CryptoHubX/assets/93007487/288fe283-0bd0-4d39-80bd-b014b3ba2f1d)
+![image](https://github.com/Shounak2003/CryptoHubX/assets/93007487/e9fcb03a-e4ea-418a-9a06-a8c7028b26ac)
+
+)
 
 ## Contributing
 
